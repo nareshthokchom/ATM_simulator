@@ -1,6 +1,6 @@
 # ATM Simulator
 
-This project is a simple ATM (Automated Teller Machine) simulator written in Python. It includes basic functionalities such as entering a PIN, checking the balance, withdrawing an amount, depositing an amount, and exiting the ATM. The simulator starts with a default balance of Rs. 10,000.
+This project is a simple ATM (Automated Teller Machine) simulator written in Python. It includes basic functionalities such as entering a PIN, checking the balance, withdrawing an amount, depositing an amount, and exiting the ATM. The simulator starts with a default balance of Rs. 15,000 and a pin of 5454.
 
 ## Features
 
@@ -45,13 +45,9 @@ This project is a simple ATM (Automated Teller Machine) simulator written in Pyt
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-Created by [Your Name] - feel free to contact me at [your-email@example.com].
+Created by [Naresh Thokchom] - feel free to contact me at [nareshthokz29@gmail.com].
 
 
 
