@@ -20,7 +20,7 @@ This project is a simple ATM (Automated Teller Machine) simulator written in Pyt
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/atm-simulator.git
+    git clone https://github.com/nareshthokchom/ATM_simulator
     cd atm-simulator
     ```
 
